@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\bin\Debug\Decoder_.exe.config
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\bin\Debug\Decoder_.exe
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\bin\Debug\Decoder_.pdb
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\obj\Debug\Decoder_.exe
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\obj\Debug\Decoder_.pdb
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\Decoder_\obj\Debug\Decoder_.csprojAssemblyReference.cache

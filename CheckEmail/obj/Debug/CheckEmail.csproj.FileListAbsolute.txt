@@ -1,0 +1,6 @@
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\bin\Debug\CheckEmail.exe.config
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\bin\Debug\CheckEmail.exe
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\bin\Debug\CheckEmail.pdb
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\obj\Debug\CheckEmail.csprojAssemblyReference.cache
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\obj\Debug\CheckEmail.exe
+C:\Users\HaGrIL\Desktop\MyFirstParser\MyFirstParser\CheckEmail\obj\Debug\CheckEmail.pdb
